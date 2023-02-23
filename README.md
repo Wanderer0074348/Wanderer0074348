@@ -1,4 +1,4 @@
-## Hi there
+## Hello World!
 
 My name is Tanay and I am a student at BITS Pilani. I'm currently learning C and Rust, and working on improving my algorithmic skills along with bettering my time and space management while maintaining clarity in code. I take interest in Security Engineering, UNIX system Environments, and DevOps. You can find more about me from my socials given below:
 
