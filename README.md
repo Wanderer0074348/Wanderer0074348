@@ -2,7 +2,7 @@
 
 My name is Tanay and I am a student at BITS Pilani. I'm currently learning C and Rust, and working on improving my algorithmic skills along with bettering my time and space management while maintaining clarity in code. I take interest in Security Engineering, UNIX system Environments, and DevOps. You can find more about me from my socials given below:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanay-m-a78243247/)](https://www.linkedin.com/in/tanay-m-a78243247/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanay-m-a78243247/)](https://www.linkedin.com/in/tanay-m-a78243247/)
 
 ## Platforms 
 
@@ -13,13 +13,13 @@ My name is Tanay and I am a student at BITS Pilani. I'm currently learning C and
 
 
 ## ⚡ Technologies
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SivaaB&theme=cobalt"/>
