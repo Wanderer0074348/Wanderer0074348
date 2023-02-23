@@ -22,8 +22,8 @@ I am Tanay Matta,a Student at BITS Pilani. I am an aspiring developer and love w
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Wanderer0074348&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderer0074348&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Wanderer0074348&count_private=true&show_icons=true&include_all_commits=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderer0074348&hide=TeX&theme=cobalt)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Wanderer0074348.Wanderer0074348)
 
