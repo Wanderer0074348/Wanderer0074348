@@ -13,7 +13,6 @@ My name is Tanay and I am a student at BITS Pilani. I'm currently learning C and
 
 
 ## ⚡ Technologies
-
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
@@ -22,8 +21,14 @@ My name is Tanay and I am a student at BITS Pilani. I'm currently learning C and
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Wanderer0074348&count_private=true&show_icons=true&include_all_commits=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderer0074348&hide=TeX&theme=cobalt)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SivaaB&theme=cobalt"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wanderer0074348&count_private=true&show_icons=true&include_all_commits=true&theme=cobalt"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderer0074348&hide=TeX&theme=cobalt"/>
+</div>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Wanderer0074348.Wanderer0074348)
 
