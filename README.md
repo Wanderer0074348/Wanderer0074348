@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I am Tanay Matta,a Student at BITS Pilani. I am an aspiring developer and love writing code and learning how to better it. Feel free to connect with me here:
+My name is Tanay and i am a student at BITS Pilani. I'm currently working on C and Rust. I take interest in Security Engineering and UNIX system Environments. You can find more about me from my socials given below:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Tanay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanay-m-a78243247/)](https://www.linkedin.com/in/tanay-m-a78243247/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanay-m-a78243247/)](https://www.linkedin.com/in/tanay-m-a78243247/)
 
 ## Platforms 
 
