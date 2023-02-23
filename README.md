@@ -22,6 +22,7 @@ My name is Tanay and I am a student at BITS Pilani. I'm currently learning C and
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
 ## GitHub Stats
+<br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SivaaB&theme=cobalt"/>
 </div>
