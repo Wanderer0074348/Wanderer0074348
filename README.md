@@ -24,7 +24,7 @@ My name is Tanay and I am a student at BITS Pilani. I'm currently learning C and
 ## GitHub Stats
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SivaaB&theme=cobalt"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wanderer0074348&theme=cobalt"/>
 </div>
 <br>
 <div align="center">
