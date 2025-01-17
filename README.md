@@ -1,5 +1,5 @@
 ## Hello World!
-My Name is Tanay Matta, an aspiring AI Engineer. Ive only just started using Github so feel free to join me on my programming journey!!
+My Name is Tanay Matta, an aspiring Systems AI Engineer. I believe in learning and growing, also rust is better than C (Yes, I am trying to move to rust)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanay-m-a78243247/)](https://www.linkedin.com/in/tanay-m-a78243247/)
 
 ## Platforms 
