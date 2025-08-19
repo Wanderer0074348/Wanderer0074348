@@ -1,5 +1,5 @@
 ## Hello World!
-My Name is Tanay Matta, an aspiring Systems AI Engineer. I believe in learning and growing, I've also given up on rust, C is superior
+Ye Hello, I write code, try to anyways
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanay-m-a78243247/)](https://www.linkedin.com/in/tanay-m-a78243247/)
 
@@ -24,16 +24,5 @@ My Name is Tanay Matta, an aspiring Systems AI Engineer. I believe in learning a
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wanderer0074348&count_private=true&show_icons=true&include_all_commits=true&theme=cobalt"/>
-</div>
-<br>
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderer0074348&hide=TeX&theme=cobalt"/>
 </div>
-<br>
-<div align="center">
-  <a href="https://app.daily.dev/wanderer0074348"><img src="https://api.daily.dev/devcards/v2/g4ROZsdf00kczYJ8zNAFY.png?r=l1z" width="356" alt="Tanay Matta's Dev Card"/></a>
-</div>
-
-
-
