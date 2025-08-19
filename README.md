@@ -14,5 +14,5 @@ Ill fill the portfolio stuff later
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderer0074348&hide=TeX,Jupyter Notebook&theme=cobalt"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderer0074348&hide=TeX,JupyterNotebook&theme=cobalt"/>
 </div>
